@@ -1,0 +1,1 @@
+# rofi-galactic-horizon-theme
